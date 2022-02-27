@@ -1,0 +1,27 @@
+{
+  "name": "calculator-js",
+  "version": "1.0.0",
+  "description": "a simple calculator using express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbubakarYasir/Calculator-JS.git"
+  },
+  "keywords": [
+    "express.js",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Abubakar Yasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbubakarYasir/Calculator-JS/issues"
+  },
+  "homepage": "https://github.com/AbubakarYasir/Calculator-JS#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
